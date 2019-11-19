@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "@dwebjs/ddns": "dwebjs/ddns#master",
-        "bittorent-dht": "^7.10.0",
+        "bittorrent-dht": "^7.10.0",
         "buffer-from": "^1.0.0",
         "debug": "^2.6.9",
         "pretty-hash": "^1.0.1",
